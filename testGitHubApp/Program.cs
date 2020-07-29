@@ -6,7 +6,11 @@ namespace testGitHubApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var a = 5;
+            Console.WriteLine(a);
+            var changes = 89;
+            Console.WriteLine(changes);
+
         }
     }
 }
