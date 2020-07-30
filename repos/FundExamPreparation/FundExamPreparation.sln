@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.1SecretChat", "..\1.1Secr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.2MirrorWords", "..\1.2MirrorWords\1.2MirrorWords.csproj", "{C74348D7-26F7-4A80-9184-674DB3FC32D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.3.NeedForSpeed", "..\1.3.NeedForSpeed\1.3.NeedForSpeed.csproj", "{3E3A6738-E3D9-4EE9-8E54-795CDE901141}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C74348D7-26F7-4A80-9184-674DB3FC32D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C74348D7-26F7-4A80-9184-674DB3FC32D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C74348D7-26F7-4A80-9184-674DB3FC32D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3A6738-E3D9-4EE9-8E54-795CDE901141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3A6738-E3D9-4EE9-8E54-795CDE901141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3A6738-E3D9-4EE9-8E54-795CDE901141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3A6738-E3D9-4EE9-8E54-795CDE901141}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
