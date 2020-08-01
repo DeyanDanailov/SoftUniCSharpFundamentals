@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.2BossRush", "..\4.2BossRu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.3HeroRecruitment", "..\4.3HeroRecruitment\4.3HeroRecruitment.csproj", "{767D80D1-19D3-474C-BACA-09A09824372B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.1NikuldenCharity", "..\5.1NikuldenCharity\5.1NikuldenCharity.csproj", "{820BDF83-1F8C-4136-B16F-F3206D512E82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{767D80D1-19D3-474C-BACA-09A09824372B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{767D80D1-19D3-474C-BACA-09A09824372B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{767D80D1-19D3-474C-BACA-09A09824372B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{820BDF83-1F8C-4136-B16F-F3206D512E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820BDF83-1F8C-4136-B16F-F3206D512E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820BDF83-1F8C-4136-B16F-F3206D512E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820BDF83-1F8C-4136-B16F-F3206D512E82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
