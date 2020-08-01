@@ -11,17 +11,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.2MirrorWords", "..\1.2Mir
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.3.NeedForSpeed", "..\1.3.NeedForSpeed\1.3.NeedForSpeed.csproj", "{3E3A6738-E3D9-4EE9-8E54-795CDE901141}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1ResetPassword", "..\2.1ResetPassword\2.1ResetPassword.csproj", "{A906D3A6-5542-49A9-A887-3ECFD9A7DF8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.1ResetPassword", "..\2.1ResetPassword\2.1ResetPassword.csproj", "{A906D3A6-5542-49A9-A887-3ECFD9A7DF8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2FancyBarcodes", "..\2.2FancyBarcodes\2.2FancyBarcodes.csproj", "{D0D5B71E-82DE-4B9A-BAD2-FF2B1DFC635C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.2FancyBarcodes", "..\2.2FancyBarcodes\2.2FancyBarcodes.csproj", "{D0D5B71E-82DE-4B9A-BAD2-FF2B1DFC635C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.3HeroesOfCodeAndLogicIII", "..\2.3HeroesOfCodeAndLogicIII\2.3HeroesOfCodeAndLogicIII.csproj", "{0E44958F-8D8D-4C00-B4A7-18208CC85724}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.3HeroesOfCodeAndLogicIII", "..\2.3HeroesOfCodeAndLogicIII\2.3HeroesOfCodeAndLogicIII.csproj", "{0E44958F-8D8D-4C00-B4A7-18208CC85724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.1ActivationKeys", "..\3.1ActivationKeys\3.1ActivationKeys.csproj", "{114CE7C7-DE77-4C04-B563-4CBF3BCB37C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.1ActivationKeys", "..\3.1ActivationKeys\3.1ActivationKeys.csproj", "{114CE7C7-DE77-4C04-B563-4CBF3BCB37C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.2EmojiDetector", "..\3.2EmojiDetector\3.2EmojiDetector.csproj", "{5A7431B3-2A5A-4119-A81D-FE91C6D12F62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.2EmojiDetector", "..\3.2EmojiDetector\3.2EmojiDetector.csproj", "{5A7431B3-2A5A-4119-A81D-FE91C6D12F62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3Pirates", "..\3.3Pirates\3.3Pirates.csproj", "{E40FBF76-5A52-4132-89A7-F64041E56EDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.3Pirates", "..\3.3Pirates\3.3Pirates.csproj", "{E40FBF76-5A52-4132-89A7-F64041E56EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1WarriorQuest", "..\4.1WarriorQuest\4.1WarriorQuest.csproj", "{48861B07-BFC8-4716-A93A-1CC4785B70EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{E40FBF76-5A52-4132-89A7-F64041E56EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E40FBF76-5A52-4132-89A7-F64041E56EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E40FBF76-5A52-4132-89A7-F64041E56EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48861B07-BFC8-4716-A93A-1CC4785B70EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48861B07-BFC8-4716-A93A-1CC4785B70EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48861B07-BFC8-4716-A93A-1CC4785B70EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48861B07-BFC8-4716-A93A-1CC4785B70EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
