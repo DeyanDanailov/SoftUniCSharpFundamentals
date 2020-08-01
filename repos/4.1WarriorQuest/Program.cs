@@ -30,10 +30,11 @@ namespace _4._1WarriorQuest
                         Console.WriteLine("Dispel too weak.");
                     }
                     else
-                    {
+                    {                      
                         char letter = char.Parse(command[2]);
-                        char toReplace = skill[index];
-                        skill = skill.Replace(toReplace, letter);
+                        char[] temp = skill.ToCharArray();
+                        temp[index] = letter;
+                        skill = new string(temp);
                         Console.WriteLine("Success!");
                     }
                     
@@ -42,17 +43,21 @@ namespace _4._1WarriorQuest
                 {
                     string substring = command[2];
                     
-                    if (command[1] == "Change")
+                    if (command[1] == "Change" && skill.Contains(substring))
                     {
-                        string secondSubstring = command[3];
+                        string secondSubstring = command[3];                       
                         skill = skill.Replace(substring, secondSubstring);
                         Console.WriteLine(skill);
                     }
-                    if (command[1] == "Remove")
+                    else if (command[1] == "Remove" && skill.Contains(substring))
                     { 
                         int indexToRemove = skill.IndexOf(substring);
                         skill = skill.Remove(indexToRemove, substring.Length);
                         Console.WriteLine(skill);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Command doesn't exist!");
                     }
 
                 }

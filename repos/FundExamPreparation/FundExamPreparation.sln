@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.3Pirates", "..\3.3Pirates
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1WarriorQuest", "..\4.1WarriorQuest\4.1WarriorQuest.csproj", "{48861B07-BFC8-4716-A93A-1CC4785B70EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.2BossRush", "..\4.2BossRush\4.2BossRush.csproj", "{E2DEEA63-BF69-446C-91E5-78AE555F5EE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{48861B07-BFC8-4716-A93A-1CC4785B70EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48861B07-BFC8-4716-A93A-1CC4785B70EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48861B07-BFC8-4716-A93A-1CC4785B70EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2DEEA63-BF69-446C-91E5-78AE555F5EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2DEEA63-BF69-446C-91E5-78AE555F5EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2DEEA63-BF69-446C-91E5-78AE555F5EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2DEEA63-BF69-446C-91E5-78AE555F5EE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
