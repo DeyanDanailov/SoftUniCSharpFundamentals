@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.1NikuldenCharity", "..\5.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2MessageTranslator", "..\5.2MessageTranslator\5.2MessageTranslator.csproj", "{D54C2B62-40D9-478C-903D-325975CEC21D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3NikuldenMeals", "..\5.3NikuldenMeals\5.3NikuldenMeals.csproj", "{350BB60D-70C7-4943-B855-646BAF568027}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{D54C2B62-40D9-478C-903D-325975CEC21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D54C2B62-40D9-478C-903D-325975CEC21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D54C2B62-40D9-478C-903D-325975CEC21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350BB60D-70C7-4943-B855-646BAF568027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350BB60D-70C7-4943-B855-646BAF568027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350BB60D-70C7-4943-B855-646BAF568027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350BB60D-70C7-4943-B855-646BAF568027}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
