@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.3HeroRecruitment", "..\4.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.1NikuldenCharity", "..\5.1NikuldenCharity\5.1NikuldenCharity.csproj", "{820BDF83-1F8C-4136-B16F-F3206D512E82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2MessageTranslator", "..\5.2MessageTranslator\5.2MessageTranslator.csproj", "{D54C2B62-40D9-478C-903D-325975CEC21D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.2MessageTranslator", "..\5.2MessageTranslator\5.2MessageTranslator.csproj", "{D54C2B62-40D9-478C-903D-325975CEC21D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.3NikuldenMeals", "..\5.3NikuldenMeals\5.3NikuldenMeals.csproj", "{350BB60D-70C7-4943-B855-646BAF568027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.3NikuldenMeals", "..\5.3NikuldenMeals\5.3NikuldenMeals.csproj", "{350BB60D-70C7-4943-B855-646BAF568027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.1EmailValidator", "..\6.1EmailValidator\6.1EmailValidator.csproj", "{F1CEB518-A145-475C-A0B5-346661C56958}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{350BB60D-70C7-4943-B855-646BAF568027}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{350BB60D-70C7-4943-B855-646BAF568027}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{350BB60D-70C7-4943-B855-646BAF568027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1CEB518-A145-475C-A0B5-346661C56958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CEB518-A145-475C-A0B5-346661C56958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CEB518-A145-475C-A0B5-346661C56958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CEB518-A145-475C-A0B5-346661C56958}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
