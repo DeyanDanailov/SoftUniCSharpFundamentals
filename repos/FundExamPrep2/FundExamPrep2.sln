@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.2.Registration", "..\6.2.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.3.InboxManager", "..\6.3.InboxManager\6.3.InboxManager.csproj", "{709ED1D7-7167-4370-A303-6AF2B27795AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.1.Username", "..\7.1.Username\7.1.Username.csproj", "{2CB30AEB-C2E9-4BD4-A215-1338AF15B670}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.1.Username", "..\7.1.Username\7.1.Username.csproj", "{2CB30AEB-C2E9-4BD4-A215-1338AF15B670}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2.Password", "..\7.2.Password\7.2.Password.csproj", "{C0CA6A62-A194-4354-BEC7-A4C94847FBDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.Password", "..\7.2.Password\7.2.Password.csproj", "{C0CA6A62-A194-4354-BEC7-A4C94847FBDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.3.Followers", "..\7.3.Followers\7.3.Followers.csproj", "{3C1A2757-65DF-47D2-B46B-4CD0531D974D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C0CA6A62-A194-4354-BEC7-A4C94847FBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0CA6A62-A194-4354-BEC7-A4C94847FBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0CA6A62-A194-4354-BEC7-A4C94847FBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1A2757-65DF-47D2-B46B-4CD0531D974D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1A2757-65DF-47D2-B46B-4CD0531D974D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1A2757-65DF-47D2-B46B-4CD0531D974D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1A2757-65DF-47D2-B46B-4CD0531D974D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
