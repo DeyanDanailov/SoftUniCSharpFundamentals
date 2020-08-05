@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.1.Username", "..\7.1.User
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.2.Password", "..\7.2.Password\7.2.Password.csproj", "{C0CA6A62-A194-4354-BEC7-A4C94847FBDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.3.Followers", "..\7.3.Followers\7.3.Followers.csproj", "{3C1A2757-65DF-47D2-B46B-4CD0531D974D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.3.Followers", "..\7.3.Followers\7.3.Followers.csproj", "{3C1A2757-65DF-47D2-B46B-4CD0531D974D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.1.StringManipulator", "..\8.1.StringManipulator\8.1.StringManipulator.csproj", "{B84B1E86-3A9D-4DC0-8394-8D047FAFBECB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3C1A2757-65DF-47D2-B46B-4CD0531D974D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C1A2757-65DF-47D2-B46B-4CD0531D974D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C1A2757-65DF-47D2-B46B-4CD0531D974D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B84B1E86-3A9D-4DC0-8394-8D047FAFBECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B84B1E86-3A9D-4DC0-8394-8D047FAFBECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B84B1E86-3A9D-4DC0-8394-8D047FAFBECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B84B1E86-3A9D-4DC0-8394-8D047FAFBECB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
