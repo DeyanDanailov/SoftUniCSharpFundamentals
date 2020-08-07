@@ -23,9 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.2.MessageEncrypter", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.3.BattleManager", "..\8.3.BattleManager\8.3.BattleManager.csproj", "{4F38114D-EDDE-4DC0-98DB-B3D02592C2E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.1.StringManipulator1", "..\9.1.StringManipulator1\9.1.StringManipulator1.csproj", "{C78A451E-5045-4B3D-BD45-73D2593A1244}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.1.StringManipulator1", "..\9.1.StringManipulator1\9.1.StringManipulator1.csproj", "{C78A451E-5045-4B3D-BD45-73D2593A1244}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.2.MessageDecrypter", "..\9.2.MessageDecrypter\9.2.MessageDecrypter.csproj", "{CA0C5C10-0DE9-449D-9F48-6A36E53DB0B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.2.MessageDecrypter", "..\9.2.MessageDecrypter\9.2.MessageDecrypter.csproj", "{CA0C5C10-0DE9-449D-9F48-6A36E53DB0B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.3.MessagesManager", "..\9.3.MessagesManager\9.3.MessagesManager.csproj", "{1642996F-C02F-4CD2-B095-731416593CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.1.Concert", "..\10.1.Concert\10.1.Concert.csproj", "{0D264829-3914-452F-890B-653220BC30EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{CA0C5C10-0DE9-449D-9F48-6A36E53DB0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA0C5C10-0DE9-449D-9F48-6A36E53DB0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA0C5C10-0DE9-449D-9F48-6A36E53DB0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1642996F-C02F-4CD2-B095-731416593CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1642996F-C02F-4CD2-B095-731416593CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1642996F-C02F-4CD2-B095-731416593CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1642996F-C02F-4CD2-B095-731416593CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D264829-3914-452F-890B-653220BC30EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D264829-3914-452F-890B-653220BC30EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D264829-3914-452F-890B-653220BC30EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D264829-3914-452F-890B-653220BC30EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

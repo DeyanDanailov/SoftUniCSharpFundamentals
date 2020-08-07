@@ -18,7 +18,7 @@ namespace _8._2.MessageEncrypter
                     int first = int.Parse(isValid.Groups["first"].Value);
                     int second = int.Parse(isValid.Groups["second"].Value);
                     int third = int.Parse(isValid.Groups["third"].Value);
-                    Console.WriteLine($"{tag}: {(char)first} {(char)second} {(char)third}");
+                    Console.WriteLine($"{tag}: {(char)first}{(char)second}{(char)third}");
                 }
                 else
                 {
