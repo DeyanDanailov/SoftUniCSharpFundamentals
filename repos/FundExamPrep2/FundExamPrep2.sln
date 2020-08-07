@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.3.MessagesManager", "..\9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.1.Concert", "..\10.1.Concert\10.1.Concert.csproj", "{0D264829-3914-452F-890B-653220BC30EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.2.SongEncryption", "..\10.2.SongEncryption\10.2.SongEncryption.csproj", "{26217459-98AB-4B50-84A1-F78E9CBA9B66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{0D264829-3914-452F-890B-653220BC30EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D264829-3914-452F-890B-653220BC30EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D264829-3914-452F-890B-653220BC30EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26217459-98AB-4B50-84A1-F78E9CBA9B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26217459-98AB-4B50-84A1-F78E9CBA9B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26217459-98AB-4B50-84A1-F78E9CBA9B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26217459-98AB-4B50-84A1-F78E9CBA9B66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
