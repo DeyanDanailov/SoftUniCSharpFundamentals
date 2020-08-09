@@ -33,7 +33,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.1.Concert", "..\10.1.Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.2.SongEncryption", "..\10.2.SongEncryption\10.2.SongEncryption.csproj", "{26217459-98AB-4B50-84A1-F78E9CBA9B66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.3.TheIsleOfMan", "..\10.3.TheIsleOfMan\10.3.TheIsleOfMan.csproj", "{3B414C12-A3CA-4FBE-A5B0-7648C8C37ED3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.3.TheIsleOfMan", "..\10.3.TheIsleOfMan\10.3.TheIsleOfMan.csproj", "{3B414C12-A3CA-4FBE-A5B0-7648C8C37ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.1.Exam1", "..\11.1\11.1.Exam1.csproj", "{6DF732D1-923D-4AB1-A161-6572B5732983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.2.Exam2", "..\11.2.Exam2\11.2.Exam2.csproj", "{88F0FD80-6A86-4724-B39A-A3A54E10693B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.3.Exam3", "..\11.3.Exam3\11.3.Exam3.csproj", "{55C06093-6102-4CDA-B63C-522E657434E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +111,18 @@ Global
 		{3B414C12-A3CA-4FBE-A5B0-7648C8C37ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B414C12-A3CA-4FBE-A5B0-7648C8C37ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B414C12-A3CA-4FBE-A5B0-7648C8C37ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF732D1-923D-4AB1-A161-6572B5732983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF732D1-923D-4AB1-A161-6572B5732983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF732D1-923D-4AB1-A161-6572B5732983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF732D1-923D-4AB1-A161-6572B5732983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F0FD80-6A86-4724-B39A-A3A54E10693B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F0FD80-6A86-4724-B39A-A3A54E10693B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F0FD80-6A86-4724-B39A-A3A54E10693B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F0FD80-6A86-4724-B39A-A3A54E10693B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C06093-6102-4CDA-B63C-522E657434E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C06093-6102-4CDA-B63C-522E657434E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C06093-6102-4CDA-B63C-522E657434E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C06093-6102-4CDA-B63C-522E657434E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
