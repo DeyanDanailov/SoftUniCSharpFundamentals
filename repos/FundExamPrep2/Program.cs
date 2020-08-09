@@ -6,7 +6,7 @@ namespace FundExamPrep2
     {
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("300/300!!!");
         }
         
     }
