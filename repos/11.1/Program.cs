@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _11._1
+namespace _11._1.Exam1
 {
     class Program
     {
